@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AvidAccountKitDemo</string>
+<!--
+    <string name="facebook_app_id">"475008772706594"</string>
+    <string name="facebook_client_token">"09f46b7b8ef3829e0eeab4c571e3e852"</string>
+    <string name="ak_facebook_app_id">"ak475008772706594"</string>
+-->
+    <string name="facebook_app_id">"357965851256390"</string>
+    <string name="facebook_client_token">"0f333af58dfb64e1d6d72cc5b207d51a"</string>
+    <string name="ak_facebook_app_id">"ak357965851256390"</string>
+
+</resources>
